@@ -1,3 +1,4 @@
+
 def bool_is_leap_year(year) -> bool:
     """ Returns true/false if year is a leap year """
     if year % 400 == 0:
