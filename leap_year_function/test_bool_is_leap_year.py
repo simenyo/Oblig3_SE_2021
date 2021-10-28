@@ -29,3 +29,4 @@ def test_1700_not_leap_year():
 def test_2000_is_a_leap_year():
     """"""
     assert bool_is_leap_year(2000) is True
+
