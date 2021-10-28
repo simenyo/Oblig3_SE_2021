@@ -1,4 +1,4 @@
-from leap_year_function import *
+from leap_year_function.function_folder.bool_is_leap_year import bool_is_leap_year
 
 
 def test_is_leap_year_when_divisible_by_4_not_100():
